@@ -1,4 +1,4 @@
-## Hi there 👋
+## Quasm
 Portable programming language that compiles to WebAssmebly
 <!--
 
